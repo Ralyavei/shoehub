@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "name":"adidas",
+        "image":"product image//Superstar_shoes_White.avif",
+        "price":59.99
+    },
+    {
+        "id":"2",
+        "name":"adidas",
+        "image":"product image/Superstar_Shoes_White.avif",
+        "price":66,
+    },
+]

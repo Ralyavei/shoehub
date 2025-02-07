@@ -167,8 +167,9 @@ header {
 
 /* Hero Section */
 .bgimage{
-  height: 500px;
-  background-image: url("bg.jpg");
+  height: 700px;
+  max-width: 1000%;
+  background-image: url("logo.jpg");
   background-position: center;
   background-size: cover;
 }
